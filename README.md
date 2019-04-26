@@ -1,4 +1,6 @@
--- ENGLISH VERSION --
+# What is EN:CODING?
+
+* English Version
 
 The project is an environmental protection campaign to educate young people about the importance of protecting the environment. Its purpose is to provide environmental awareness by distributing environment related kits through the production of Air purifier coding kits through the ionizer module.
 The members of our team are me, Lee Se Eun, and Lee Dain. They each play the role of embedded programming, web programming, and design.
@@ -9,7 +11,7 @@ Our project plan. We will plan our project in March, and in May we will produce 
 In October, we will write and submit an English report to the Korean Youth Parliament, and in November we will produce and distribute promotional videos on environmental protection (Facebook, Youtube, etc.)
 We made our website. Please visit us and check the website introduction and information. http://encoding.surge.sh/
 
--- KOREAN VERSION --
+* Korean Version
 
 이 프로젝트는 환경 보호에 대한 중요성을 청소년들에게 알리기 위한 환경 보호 캠페인이다. 이오나이저 모듈을 통한 공기청정기 코딩 키트를 제작한 후 교육하여 환경 인식을 함양시키는 것이 목적이다.
 우리 팀의 멤버는 나, 이세은, 이다인이다. 우리는 각각 임베디드 프로그래밍, 웹 프로그래밍, 그리고 디자인의 역할을 한다.
